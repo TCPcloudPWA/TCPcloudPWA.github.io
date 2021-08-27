@@ -1,6 +1,6 @@
 [{
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target" : { "namespace": "android_app", "package_name": "io.github.tcpcloudpwa.youtubeutils",
-                     "sha256_cert_fingerprints": ["B8:5D:92:97:E2:A8:A9:42:37:CA:1C:77:D0:3F:BA:2C:55:C3:7D:6A:08:52:84:5B:00:99:B0:C2:40:CC:13:21"] }
+                     "sha256_cert_fingerprints": ["64:77:70:C0:D5:70:4E:3A:69:45:D8:AA:0B:A5:F6:75:C8:D2:3A:86:99:05:E5:39:AD:1C:05:15:F6:94:9A:EF"] }
       }
 ]
